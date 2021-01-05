@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  dotnet:
+    image: mcr.microsoft.com/dotnet/sdk:5.0
+    container_name: test_dotnet
+    tty: true
+    volumes:
+      - ./testenv:/testenv

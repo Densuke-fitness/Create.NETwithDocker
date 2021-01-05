@@ -1,0 +1,16 @@
+/testenv/bin/Debug/net5.0/testenv
+/testenv/bin/Debug/net5.0/testenv.deps.json
+/testenv/bin/Debug/net5.0/testenv.runtimeconfig.json
+/testenv/bin/Debug/net5.0/testenv.runtimeconfig.dev.json
+/testenv/bin/Debug/net5.0/testenv.dll
+/testenv/bin/Debug/net5.0/ref/testenv.dll
+/testenv/bin/Debug/net5.0/testenv.pdb
+/testenv/obj/Debug/net5.0/testenv.csprojAssemblyReference.cache
+/testenv/obj/Debug/net5.0/testenv.GeneratedMSBuildEditorConfig.editorconfig
+/testenv/obj/Debug/net5.0/testenv.AssemblyInfoInputs.cache
+/testenv/obj/Debug/net5.0/testenv.AssemblyInfo.cs
+/testenv/obj/Debug/net5.0/testenv.csproj.CoreCompileInputs.cache
+/testenv/obj/Debug/net5.0/testenv.dll
+/testenv/obj/Debug/net5.0/ref/testenv.dll
+/testenv/obj/Debug/net5.0/testenv.pdb
+/testenv/obj/Debug/net5.0/testenv.genruntimeconfig.cache
